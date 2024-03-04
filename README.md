@@ -1,6 +1,6 @@
 ## Приложение: "список задач"
 
-[Деплой](https://todotest-ilwz95w4q-denis-sergeev-85.vercel.app/).
+[Деплой](https://todotest-xi.vercel.app/).
 
 ## Технологии: React, Redux
 
