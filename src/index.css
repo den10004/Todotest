@@ -5,6 +5,10 @@
   margin: 0 auto;
   padding: 10px;
   text-align: center;
+  --white-color: white;
+  --red-color: red;
+  --green-color: green;
+  --black-color: black;
 }
 
 body {
@@ -30,9 +34,11 @@ h1 {
 }
 
 .btnComplete {
-  background-color: green;
+  background-color: var(--green-color);
+  color: var(--white-color);
 }
 
 .btnDelete {
-  background-color: red;
+  background-color: var(--red-color);
+  color: var(--white-color);
 }
